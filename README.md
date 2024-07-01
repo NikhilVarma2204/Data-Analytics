@@ -6,7 +6,7 @@ Projects Included
 
 Project 1: Ecommerce Analysis
 
-Project 2: SanFrancisco Salaries
+Project 2: San Francisco Salaries
 
 
 
